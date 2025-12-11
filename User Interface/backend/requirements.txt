@@ -1,0 +1,10 @@
+flask
+flask-cors
+python-dotenv
+pandas
+langchain
+langchain-community
+langchain-core
+langchain-ollama
+faiss-cpu
+databricks-sql-connector
